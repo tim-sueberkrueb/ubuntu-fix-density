@@ -1,7 +1,11 @@
 {
     "name": "fixdensity.timsueberkrueb",
     "description": "A small tool to generate workarounds for pixel density bugs in Qt",
-    "architecture": "all",
+    "architecture": [
+        "armhf",
+        "i386",
+        "amd64"
+    ],
     "title": "FixDensity",
     "hooks": {
         "FixDensity": {
