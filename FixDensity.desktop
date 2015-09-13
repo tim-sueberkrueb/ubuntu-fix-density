@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=FixDensity
+Exec=qmlscene $@ Main.qml
+Icon=FixDensity.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

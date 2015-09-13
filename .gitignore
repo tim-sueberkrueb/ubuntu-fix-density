@@ -32,3 +32,9 @@ Makefile*
 #QtCtreator Qml
 *.qmlproject.user
 *.qmlproject.user.*
+
+# Ubuntu SDK
+lib/
+.ubuntu-sdk-deploy
+*.click
+
